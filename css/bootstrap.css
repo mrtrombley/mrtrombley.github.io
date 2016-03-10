@@ -1581,7 +1581,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn{height:auto;}
 .input-group-btn:first-child > .btn-group{margin-right:-1px;}
 .input-group-btn:last-child > .btn,
 .input-group-btn:last-child > .btn-group{z-index:2;margin-left:-1px;}
-.nav{padding-left:0;margin-bottom:0;list-style:none;-webkit-transform: translateZ(0)}
+.nav{padding-left:0;margin-bottom:0;list-style:none;}
 .nav > li{position:relative;display:block;}
 .nav > li > a{position:relative;display:block;padding:10px 15px;}
 .nav > li > a:hover,
