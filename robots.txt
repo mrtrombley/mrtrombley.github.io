@@ -1,6 +1,2 @@
-User-Agent: *
-Allow: /*.css*
-Allow: /*.js*
-Allow: /*.png*
-Allow: /*.gif*
-Allow: /*.jpg*
+User-agent: *
+Allow: /
