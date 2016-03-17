@@ -1,2 +1,17 @@
 User-agent: *
+#Individual Pages
+Disallow: /404.html
+Disallow: /google8ae98e7aa586c673.html
+Disallow: /BingSiteAuth.xml
+Disallow: /README.md
+Disallow: /traffictemplate.html
+
+#Folders
+Disallow: /images/
+Disallow: /css/
+Disallow: /docs/
+Disallow: /js/
+Disallow: /redirects/
+
 Allow: /
+Sitemap: http://www.matthewtrombley.com/sitemap.xml
