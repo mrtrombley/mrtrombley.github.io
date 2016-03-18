@@ -8,10 +8,7 @@ Disallow: /traffictemplate.html
 Disallow: /backup/
 
 #Folders
-Disallow: /images/
-Disallow: /css/
-Disallow: /docs/
-Disallow: /js/
+Disallow: /backup/
 Disallow: /redirects/
 
 Allow: /
