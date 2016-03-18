@@ -5,6 +5,7 @@ Disallow: /google8ae98e7aa586c673.html
 Disallow: /BingSiteAuth.xml
 Disallow: /README.md
 Disallow: /traffictemplate.html
+Disallow: /backup/
 
 #Folders
 Disallow: /images/
