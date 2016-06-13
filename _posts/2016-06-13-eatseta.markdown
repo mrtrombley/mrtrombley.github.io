@@ -1,7 +1,0 @@
----
-published: true
-title: eatseta
-layout: post
-permalink: newtest
----
-testae
