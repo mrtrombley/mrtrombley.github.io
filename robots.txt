@@ -6,6 +6,8 @@ Disallow: /BingSiteAuth.xml
 Disallow: /README.md
 Disallow: /traffictemplate.html
 Disallow: /backup/
+Disallow: /blog/2016/03/18/matthewtrombley.com
+Disallow: /blog/author/mrtrombley/matthewtrombley.com
 
 #Folders
 Disallow: /backup/
