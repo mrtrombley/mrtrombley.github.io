@@ -13,7 +13,7 @@
 }
 
 .jumbotron-clemson {
-    background-image: url(../img/header-background.jpg) !important;
+    background-image: url("/img/header-background.jpg") !important;
     background-size: cover !important;
     min-height: 250px !important;
 }
