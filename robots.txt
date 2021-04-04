@@ -1,6 +1,5 @@
 User-agent: *
 
 Disallow: /docs/*
-Disallow: /404
 
 Sitemap: https://www.matthewtrombley.com/sitemap.xml
